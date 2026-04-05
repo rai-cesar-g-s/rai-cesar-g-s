@@ -14,13 +14,13 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/rai-cesar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:raigomes2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
+  <a href="https://rai-cesar.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -47,15 +47,9 @@
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai-cesar-g-s&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rai-cesar-g-s&theme=github_dark" />
 </p>
-
----
-
-## 🚀 Objetivo
-
-Atualmente busco fortalecer minha base como desenvolvedor e analista, evoluindo por meio de projetos práticos, estudo contínuo e experiências que me aproximem cada vez mais do mercado de tecnologia.
 
 ---
 
@@ -66,5 +60,3 @@ Atualmente busco fortalecer minha base como desenvolvedor e analista, evoluindo 
 - Análise e manipulação de dados com Python
 - Banco de dados relacionais e não relacionais
 - Interesse em soluções escaláveis e boas práticas
-
----
