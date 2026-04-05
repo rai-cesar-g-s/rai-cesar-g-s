@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/rai-cesar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:raigomes2022@gmail.com">
+  <a href="mailto:rai.cesar.g.s@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://rai-cesar.com/" target="_blank">
