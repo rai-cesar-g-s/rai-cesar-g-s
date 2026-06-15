@@ -1,7 +1,7 @@
 <h1 align="left">Raí César</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Full Stack JavaScript & Analista de Dados</strong>
+  <strong>Desenvolvedor Full Stack TypeScript & Analista de Dados</strong>
 </p>
 
 <p align="left">
@@ -14,14 +14,17 @@
 </p>
 
 <p align="left">
+  <a href="https://www.youtube.com/@rai-cesar-fc" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/rai-cesar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rai.cesar.g.s@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://rai-cesar.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:rai.cesar.g.s@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -35,7 +38,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <br/>
@@ -61,7 +64,7 @@
 
 ## 📂 Destaques
 
-- Desenvolvimento web com JavaScript
+- Desenvolvimento web com TypeScript
 - Estruturação e organização de projetos
 - Análise e manipulação de dados com Python
 - Banco de dados relacionais e não relacionais
