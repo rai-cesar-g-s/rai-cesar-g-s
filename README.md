@@ -67,6 +67,7 @@
 - Uso avançado de ferramentas de BI e Excel
 - Análise e manipulação de dados com Python / SQL / Power BI
 - Banco de dados relacionais e não relacionais
+- Estatística e matemática
 - Interesse em soluções escaláveis e boas práticas
 - Desenvolvimento web com TypeScript
 - Estruturação e organização de projetos
