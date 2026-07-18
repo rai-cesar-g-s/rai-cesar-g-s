@@ -1,12 +1,12 @@
 <h1 align="left">Raí César</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Full Stack TypeScript & Analista de Dados</strong>
+  <strong>Analista de Dados</strong>
 </p>
 
 <p align="left">
-  Me chamo Raí César, sou estudante e entusiasta da área de tecnologia, com foco em desenvolvimento de software e análise de dados.
-  Tenho interesse na criação de aplicações web, organização de código, boas práticas de desenvolvimento e uso de dados para gerar soluções mais eficientes e apoiar decisões.
+  Me chamo Raí César, sou estudante e entusiasta da área de tecnologia, com foco em análise de dados e business intelligence.
+  Tenho interesse em Business Intelligence, Análise de Dados, Engenharia de Dados, Ciência de Dados e Engenharia de Software, buscando desenvolver soluções que transformem dados em informações estratégicas para o negócio.
 </p>
 
 <p align="left">
@@ -64,8 +64,9 @@
 
 ## 📂 Destaques
 
-- Desenvolvimento web com TypeScript
-- Estruturação e organização de projetos
-- Análise e manipulação de dados com Python
+- Uso avançado de ferramentas de BI e Excel
+- Análise e manipulação de dados com Python / SQL / Power BI
 - Banco de dados relacionais e não relacionais
 - Interesse em soluções escaláveis e boas práticas
+- Desenvolvimento web com TypeScript
+- Estruturação e organização de projetos
